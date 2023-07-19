@@ -1,0 +1,6 @@
+É um script reaproveitavel 
+3 categorias 
+
+- internos: módulos que nós desenvolvemos
+- Core Modules: módulos que vem com o Node.js
+- Externos: módulos que instalamos via npm
