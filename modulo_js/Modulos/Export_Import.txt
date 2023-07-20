@@ -1,0 +1,6 @@
+- Export e import do ES6
+- São funcionalidades mais modernas de importação e exportação
+- Com mais recursos do que as que vimos anteriormente
+- Necessário modificar os arquivos para a extensão .mjs
+- Exportar uma com export default
+- E importar com import, uma única função, caso seja necessário

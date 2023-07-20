@@ -1,0 +1,4 @@
+O Node permite o envio de argumentos via linha de comando
+- Passamos eles após a instrução de execução do arquivo
+- Os argumentos ficam em um array chamado: porcess.argv
+- Onde podemos fazer um loop e resgarar os valoers enviados
