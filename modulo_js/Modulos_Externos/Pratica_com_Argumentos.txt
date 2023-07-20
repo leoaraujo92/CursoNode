@@ -1,0 +1,3 @@
+Podemos utilizar os argumentos recebidos para aplicar no nosso programa alguma lógica 
+Basta encapsular em variaveis e depois utlizá-los
+A partir do terminal, executar também uma função de um módulo interno nosso, por exemplo

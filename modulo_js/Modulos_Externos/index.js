@@ -13,3 +13,15 @@ console.log(nome)
 console.log(profissao)
 
 console.log(`Nome: ${nome} Profissão: ${profissao}`)
+
+//interno
+const soma = require('./pratica_args').soma
+
+soma(2,2)
+
+const a = parseInt(args['a'])
+const b = parseInt(args['b'])
+
+soma(a,b)
+
+//node index.js --nome=Leonardo --profissao=Tecnico --a=10 --b=5
